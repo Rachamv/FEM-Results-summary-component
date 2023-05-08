@@ -22,7 +22,7 @@ This is a solution to the [Results summary componentchallenge on Frontend Mentor
 
 ### Screenshot
 
-![](./design/desktop-design.png)
+![](./design/desktop-design.jpg)
 
 ### Links
 
