@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary componentchallenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor perfect challenge to test my layout skills by building realistic projects. 
+This is a solution to the [Results summary componentchallenge on Frontend Mentor](https://www.frontendmentor.io/solutions/femresultssummarycomponent-Jq8fhVPSSy). Frontend Mentor perfect challenge to test my layout skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,7 +27,7 @@ This is a solution to the [Results summary componentchallenge on Frontend Mentor
 ### Links
 
 - Solution URL:  [Results summary component](https://github.com/Rachamv/FEM-Results-summary-component)
-- Live Site URL: [Results summary component](https://github.com/Rachamv/FEM-Results-summary-component)
+- Live Site URL: [Results summary component](https://rachamv.github.io/FEM-Results-summary-component/)
 
 ## My process
 
